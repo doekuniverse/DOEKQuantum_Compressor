@@ -168,13 +168,13 @@ class DoekPlanetEngine:
         if not block:
             return b'', None
             
-        # Compresión directa rápida primero (DUALPIXIESALT)
+        # Compresión directa rápida primero (DualQuantum)
         direct_compressed = zlib.compress(block, level=1)
         if len(direct_compressed) < len(block) * 0.5:
             self.performance_metrics['block_times'].append(('direct', time.time() - block_start))
             return b'\x00' + direct_compressed, None
         
-        # Compresión cuántica paralela con campo (QUANTUMFIELD + 200LF + BR&CMK)
+        # Compresión cuántica paralela con campo (QUANTUMFIELD + MaxFold + GalacticShard)
         try:
             data = np.frombuffer(block, dtype=np.uint8)
             Doek_start = time.time()
@@ -194,7 +194,7 @@ class DoekPlanetEngine:
         except Exception as e:
             print(f"Error en transformación cuántica: {str(e)}")
         
-        # Compresión agresiva como último recurso (BR&CMK)
+        # Compresión agresiva como último recurso (GalacticShard)
         aggressive = zlib.compress(block, level=9)
         if len(aggressive) < len(block):
             self.performance_metrics['block_times'].append(('aggressive', time.time() - block_start))
@@ -216,12 +216,12 @@ class DoekPlanetEngine:
         content = data[1:]
         
         try:
-            if block_type == 0:  # Directa (DUALPIXIESALT)
+            if block_type == 0:  # Directa (DualQuantum)
                 result = zlib.decompress(content)
                 self.performance_metrics['block_times'].append(('decomp_direct', time.time() - block_start))
                 return result
                 
-            if block_type == 1:  # Doek (QUANTUMFIELD + 200LF + BR&CMK)
+            if block_type == 1:  # Doek (QUANTUMFIELD + MaxFold + GalacticShard)
                 decompressed = zlib.decompress(content)
                 Doek_data = np.frombuffer(decompressed, dtype=np.uint8)
                 Doek_start = time.time()
@@ -231,7 +231,7 @@ class DoekPlanetEngine:
                 self.performance_metrics['block_times'].append(('decomp_Doek', time.time() - block_start))
                 return result.tobytes()
                 
-            if block_type == 2:  # Agresiva (BR&CMK)
+            if block_type == 2:  # Agresiva (GalacticShard)
                 result = zlib.decompress(content)
                 self.performance_metrics['block_times'].append(('decomp_aggressive', time.time() - block_start))
                 return result
