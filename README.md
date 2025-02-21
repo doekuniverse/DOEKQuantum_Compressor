@@ -27,6 +27,7 @@ El sistema se basa en varias partículas cuánticas, cada una con funciones espe
 - DualQuantum (ΦDQ): Una partícula única que existe simultáneamente en múltiples estados cuánticos, permitiendo el procesamiento paralelo en diferentes dimensiones al mismo tiempo, mientras gestiona estados duales que permiten que la información exista en múltiples configuraciones optimizadas simultáneamente.
 
 - QUANTUMFIELD (ΨQF): El núcleo del sistema DOEK, esta partícula genera campos cuánticos adaptativos que envuelven y transforman los datos, creando un espacio de compresión multidimensional que se ajusta dinámicamente a las características de la información, permitiendo ratios de compresión que desafían las leyes de la física clásica.
+  
 ![image_fx_ (2)](https://github.com/user-attachments/assets/f2bebc9d-227d-485d-9a4e-6b2aa3caf90b)
 
 ### Aplicaciones
