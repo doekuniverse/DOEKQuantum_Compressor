@@ -18,10 +18,13 @@ Mediante la creación de campos cuánticos que doblan el tejido mismo del espaci
 
 El sistema se basa en varias partículas cuánticas, cada una con funciones específicas:
 
-- **MaxFold (ΨMF)**: Colapso dimensional y transformación de fase.
-- **GalacticShard (ΓGS)**: Análisis de entropía y creación de micro-singularidades.
-- **DualQuantum (ΦDQ)**: Procesamiento paralelo y gestión de estados duales.
-- **QUANTUMFIELD (ΨQF)**: Generación de campos de compresión adaptativos.
+- MaxFold (ΨMF): Una partícula cuántica revolucionaria que manipula el tejido dimensional de los datos, doblando y transformando su estructura fundamental para crear pliegues en el     espacio-información, permitiendo que grandes volúmenes de datos ocupen espacios infinitesimalmente pequeños a través de transformaciones de fase cuántica.
+
+- GalacticShard (ΓGS): Esta extraordinaria partícula genera micro-singularidades controladas que actúan como puntos de compresión infinita, mientras su análisis de entropía cuántica permite identificar y optimizar patrones en los datos, creando verdaderos agujeros negros de información que comprimen datos sin pérdida de información.
+
+- DualQuantum (ΦDQ): Una partícula única que existe simultáneamente en múltiples estados cuánticos, permitiendo el procesamiento paralelo en diferentes dimensiones al mismo tiempo, mientras gestiona estados duales que permiten que la información exista en múltiples configuraciones optimizadas simultáneamente.
+
+- QUANTUMFIELD (ΨQF): El núcleo del sistema DOEK, esta partícula genera campos cuánticos adaptativos que envuelven y transforman los datos, creando un espacio de compresión multidimensional que se ajusta dinámicamente a las características de la información, permitiendo ratios de compresión que desafían las leyes de la física clásica.
 
 ### Aplicaciones
 
