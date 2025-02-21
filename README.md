@@ -52,6 +52,8 @@ Este proyecto está bajo la Licencia DOEK Technology. Consulta el archivo LICENS
 ### Advertencia
 
 Funciona en DATASET de BIGDATA y archivos tradicionales a excepción de archivos ya comprimidos como ZIP, RAR o cualquier variación.
+
+### ¿Que piensa la IA?
 ![image](https://github.com/user-attachments/assets/5fe735cd-50bc-4fe9-8505-74c3c9fe2fde)
 
 ---
