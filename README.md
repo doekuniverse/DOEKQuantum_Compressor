@@ -1,8 +1,7 @@
 # DOEK Quantum Field Compressor
-![image](https://github.com/user-attachments/assets/5fe735cd-50bc-4fe9-8505-74c3c9fe2fde)
+![image_fx_ (27)](https://github.com/user-attachments/assets/b60a7ad3-e211-4792-b022-3e026c5f8d2a)
 
 ## Descripción del Proyecto
-![image_fx_ (27)](https://github.com/user-attachments/assets/b60a7ad3-e211-4792-b022-3e026c5f8d2a)
 
 El **DOEK Quantum Field Processor** es un revolucionario sistema que utiliza micro-singularidades y campos cuánticos adaptativos para manipular las dimensiones del espacio-datos, permitiendo comprimir información a niveles antes considerados imposibles mediante el colapso dimensional controlado.
 
@@ -52,6 +51,7 @@ Este proyecto está bajo la Licencia DOEK Technology. Consulta el archivo LICENS
 ### Advertencia
 
 Funciona en DATASET de BIGDATA y archivos tradicionales a excepción de archivos ya comprimidos como ZIP, RAR o cualquier variación.
+![image](https://github.com/user-attachments/assets/5fe735cd-50bc-4fe9-8505-74c3c9fe2fde)
 
 ---
 
