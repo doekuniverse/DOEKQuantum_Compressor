@@ -29,24 +29,17 @@ El DOEK Quantum Field Processor tiene aplicaciones en diversos campos, incluyend
 
 ### Instalación
 
-Para instalar y ejecutar el DOEK Quantum Field Processor, asegúrate de tener Python 3.13.1 o superior instalado en tu sistema. Luego, clona este repositorio y ejecuta el siguiente comando:
+Para ejecutar el DOEK Quantum Field Processor, asegúrate de tener Python 3.13.1 o superior instalado en tu sistema. Luego, clona este repositorio y ejecuta el sigueinte archivo
 
-```bash
-pip install -r requirements.txt
-```
-
-### Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
-4. Envía un pull request.
+DoekQuantumField_Processor.py
 
 ### Licencia
 
 Este proyecto está bajo la Licencia DOEK Technology. Consulta el archivo LICENSE.md para más detalles.
+
+### Advertencia
+
+Funciona en DATASET de BIGDATA y archivos tradicionales a excepción de archivos ya comprimidos como ZIP, RAR o cualquier variación.
 
 ---
 
