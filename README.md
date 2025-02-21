@@ -1,4 +1,5 @@
 # DOEK Quantum Field Compressor
+![image](https://github.com/user-attachments/assets/5fe735cd-50bc-4fe9-8505-74c3c9fe2fde)
 
 ## Descripción del Proyecto
 
