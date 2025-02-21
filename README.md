@@ -2,6 +2,7 @@
 ![image](https://github.com/user-attachments/assets/5fe735cd-50bc-4fe9-8505-74c3c9fe2fde)
 
 ## Descripción del Proyecto
+![image_fx_ (27)](https://github.com/user-attachments/assets/b60a7ad3-e211-4792-b022-3e026c5f8d2a)
 
 El **DOEK Quantum Field Processor** es un revolucionario sistema que utiliza micro-singularidades y campos cuánticos adaptativos para manipular las dimensiones del espacio-datos, permitiendo comprimir información a niveles antes considerados imposibles mediante el colapso dimensional controlado.
 
@@ -16,6 +17,7 @@ Mediante la creación de campos cuánticos que doblan el tejido mismo del espaci
 - **Adaptabilidad**: Se ajusta dinámicamente a diferentes tipos de datos y condiciones, optimizando el rendimiento en tiempo real.
 
 ### Partículas Cuánticas
+![image_fx_ (3)](https://github.com/user-attachments/assets/3b273428-1d1d-45e1-83ad-39afa47148bc)
 
 El sistema se basa en varias partículas cuánticas, cada una con funciones específicas:
 
@@ -26,6 +28,7 @@ El sistema se basa en varias partículas cuánticas, cada una con funciones espe
 - DualQuantum (ΦDQ): Una partícula única que existe simultáneamente en múltiples estados cuánticos, permitiendo el procesamiento paralelo en diferentes dimensiones al mismo tiempo, mientras gestiona estados duales que permiten que la información exista en múltiples configuraciones optimizadas simultáneamente.
 
 - QUANTUMFIELD (ΨQF): El núcleo del sistema DOEK, esta partícula genera campos cuánticos adaptativos que envuelven y transforman los datos, creando un espacio de compresión multidimensional que se ajusta dinámicamente a las características de la información, permitiendo ratios de compresión que desafían las leyes de la física clásica.
+![image_fx_ (2)](https://github.com/user-attachments/assets/f2bebc9d-227d-485d-9a4e-6b2aa3caf90b)
 
 ### Aplicaciones
 
@@ -42,6 +45,7 @@ Para ejecutar el DOEK Quantum Field Processor, asegúrate de tener Python 3.13.1
 DoekQuantumField_Processor.py
 
 ### Licencia
+![image_fx_ (41)](https://github.com/user-attachments/assets/53a22881-2f24-455d-8166-6e27c9a2ce42)
 
 Este proyecto está bajo la Licencia DOEK Technology. Consulta el archivo LICENSE.md para más detalles.
 
